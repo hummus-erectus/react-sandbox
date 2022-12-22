@@ -1,11 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css'
-import UseRefExample2 from './components/useRefExample2';
+import UseRefExample3 from './components/UseRefExample3';
 
 
 function App() {
   return (
     <div className='container mt-5'>
-      <UseRefExample2 />
+      <UseRefExample3 />
     </div>
   )
 }
